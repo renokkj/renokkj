@@ -1,8 +1,8 @@
-## Olá, eu sou a Isabelli 👋
+## Isabelli Reno
 
 Estudante de **Engenharia de Software** na Universidade de Mogi das Cruzes (6º semestre, formatura prevista para 2027), com foco em **desenvolvimento back-end**. Gosto de entender o que acontece por trás da interface: APIs, regras de negócio e organização dos dados.
 
-🔎 Em busca de **estágio em desenvolvimento back-end**.
+Em busca de **estágio em desenvolvimento back-end**.
 
 ### 🛠️ Tecnologias
 
