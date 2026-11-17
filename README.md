@@ -1,10 +1,8 @@
 ## Isabelli Reno
 
-Estudante de **Engenharia de Software** na Universidade de Mogi das Cruzes (6º semestre, formatura prevista para 2027), com foco em **desenvolvimento back-end**. Gosto de entender o que acontece por trás da interface: APIs, regras de negócio e organização dos dados.
+Estudante de Engenharia de Software na Universidade de Mogi das Cruzes (formatura prevista para 2027), com foco em desenvolvimento back-end. Em busca de estágio na área.
 
-Em busca de **estágio em desenvolvimento back-end**.
-
-### 🛠️ Tecnologias
+### Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -15,7 +13,7 @@ Em busca de **estágio em desenvolvimento back-end**.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 📌 Projetos em destaque
+### Projetos
 
 | Projeto | O que faz | Stack |
 |---|---|---|
@@ -25,7 +23,7 @@ Em busca de **estágio em desenvolvimento back-end**.
 | [Inteligencia-Artificial---Disciplina](https://github.com/renokkj/Inteligencia-Artificial---Disciplina) | Exercícios de Python e Data Science e classificação com SVM, feitos na disciplina de IA | Python, NumPy, Pandas, Matplotlib |
 | [Apoio-Estudantil-Mogi](https://github.com/renokkj/Apoio-Estudantil-Mogi) | Protótipo de app para estudantes (login, turmas, fórum, mapa), feito em grupo | Flutter, Dart |
 
-### 📫 Contato
+### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-isabelli--reno-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelli-reno)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--4977--5526-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-4977-5526)
