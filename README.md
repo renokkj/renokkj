@@ -17,11 +17,10 @@ Estudante de Engenharia de Software na Universidade de Mogi das Cruzes (formatur
 
 | Projeto | O que faz | Stack |
 |---|---|---|
-| [ClinicaPetCare-2](https://github.com/renokkj/ClinicaPetCare-2) | Sistema web de clínica veterinária com MVC, padrões Command/Factory/Builder/Decorator, API REST e testes JUnit | Java, Jakarta Servlet, JSP, MySQL |
-| [projeto-autenticacao](https://github.com/renokkj/projeto-autenticacao) | API REST de autenticação: cadastro, login com token JWT, senhas com hash bcrypt e rota protegida | Python, FastAPI, SQLAlchemy, SQLite |
-| [CadastroDePessoas](https://github.com/renokkj/CadastroDePessoas) | CRUD de pessoas e produtos com persistência via JDBC, organizado em Model/DAO | Java, MySQL, JDBC |
+| [**Pop Collection**](https://github.com/renokkj/pop-collection) · [abrir o app](https://renokkj.github.io/pop-collection/) | Meu primeiro projeto idealizado do zero: app para controlar pagamentos, chegada e coleção de photocards, com contas de usuário, fotos e regras de acesso por pessoa (RLS) | JavaScript, HTML, CSS, Supabase (PostgreSQL), GitHub Pages |
 | [Inteligencia-Artificial---Disciplina](https://github.com/renokkj/Inteligencia-Artificial---Disciplina) | Exercícios de Python e Data Science e classificação com SVM, feitos na disciplina de IA | Python, NumPy, Pandas, Matplotlib |
-| [Apoio-Estudantil-Mogi](https://github.com/renokkj/Apoio-Estudantil-Mogi) | Protótipo de app para estudantes (login, turmas, fórum, mapa), feito em grupo | Flutter, Dart |
+| [projeto-autenticacao](https://github.com/renokkj/projeto-autenticacao) | API REST de autenticação: cadastro, login com token JWT, senhas com hash bcrypt e rota protegida | Python, FastAPI, SQLAlchemy, SQLite |
+| [ClinicaPetCare-2](https://github.com/renokkj/ClinicaPetCare-2) | Sistema web de clínica veterinária com MVC, padrões Command/Factory/Builder/Decorator, API REST e testes JUnit | Java, Jakarta Servlet, JSP, MySQL |
 
 ### Contato
 
